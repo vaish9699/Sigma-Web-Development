@@ -1,2 +1,2 @@
-# Sigma-Web-Development-Course
- Source code for sigma web dev course
+# Sigma-Web-Development
+ Source code for sigma web dev
